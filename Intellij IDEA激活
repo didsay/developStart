@@ -1,0 +1,7 @@
+## Intellij IDEA激活
+1. 进入文件夹中：C:\Windows\System32\drivers\etc ，找到hosts文件，用记事本编辑
+将“  0.0.0.0 account.jetbrains.com ”添加到hosts文件中
+
+2. 进入 http://idea.lanyus.com/ ，点获取注册码并复制。
+
+3. 将复制的注册码copy至activation，即可激活，如果提示“已经使用”，多试几次即可成功。
